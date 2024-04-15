@@ -1,0 +1,9 @@
+{
+    "name": "nest/meta-europe",
+    "description": "europe meta package",
+    "type": "metapackage",
+    "require": {
+        "nest/component-environment-europe": "~0.1",
+        "nest/meta-gra": "~0.1"
+    }
+}
